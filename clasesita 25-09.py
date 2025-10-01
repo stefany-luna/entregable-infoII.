@@ -116,7 +116,8 @@ ax5.set_facecolor('#e6e6fa')
 
 
 # titulito general de la figura
-fig.suptitle('Análisis Multifacético de Datos Numéricos', fontsize=20, fontweight='bold', color='navy', y=1.02)
+fig.suptitle('Análisis Multifacético 💅 de Datos Numéricos', fontsize=20, fontweight='bold', color='navy', y=1.02)
 
 plt.tight_layout(rect=[0, 0, 1, 0.98]) # espacio para mi supertitulote 😎
+
 plt.show() # se acabooo🥳 mas no le meto 😒o que le falta? no reina tranqui te quedo bien, solo lo del rellenito de resto lo tenias bien 
